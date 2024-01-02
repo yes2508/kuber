@@ -27,6 +27,6 @@ spec:
     spec:
       containers:
         - name: hello
-          image: yeswanth25/kube6:latest
+          image: yeswanth25/baby:latest
           imagePullPolicy: Always
 
